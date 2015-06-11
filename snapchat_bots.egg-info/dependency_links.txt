@@ -1,0 +1,1 @@
+https://github.com/martinp/pysnap/tarball/master#egg=pysnap-0.1.1
